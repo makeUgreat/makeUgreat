@@ -1,5 +1,5 @@
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=willom2c)](https://solved.ac/willom2c/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=willom2c)](https://solved.ac/profile/willom2c/)
 <br/>
 <br/>
 🤔 사용 가능한 기술 스택
