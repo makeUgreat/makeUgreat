@@ -13,7 +13,6 @@
 <br/>
 <span>
 <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=white"/>
 </span>
 <br/>
 <span>
