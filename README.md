@@ -6,6 +6,13 @@
 <br/>
 <br/>
 <span>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
+</span>
+</span>
+<br/>
+<span>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&logo=CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/>
@@ -16,8 +23,6 @@
 </span>
 <br/>
 <span>
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
-</span>
 <br/>
 <span>
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
